@@ -1,0 +1,1 @@
+It is a responsive web portfolio. It includes name,links to social networks and good templates. The about section gives information about oneself. Contains the skill sets and project section. And at the bottom it has the form.
